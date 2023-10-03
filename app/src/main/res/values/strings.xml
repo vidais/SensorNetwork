@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Part1</string>
+    <string name="app_full_name">Mobile Weather Station \n Monitoring and Alarm System</string>
+    <string name="choose_sensor">Choose Sensor:</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="luminosity">Luminosity</string>
+    <string name="chair">Mobile Applications and Technologies - 1st year MEEC</string>
+    <string name="max">Maximum</string>
+    <string name="threshold">Threshold</string>
+    <string name="alarm">Alarm</string>
+    <string name="min">Minimum</string>
 </resources>
